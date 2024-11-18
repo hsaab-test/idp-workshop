@@ -14,10 +14,8 @@ metadata:
     lighthouse.com/website-url: https://harness.io
     #For Harness CI/CD plugins - Start
     harness.io/pipelines: |
-     Build and Deploy: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/module/cd/orgs/default/projects/Platform_Demo/pipelines/EndtoEnd_Pipeline_SVC_Redesign/pipeline-studio?storeType=INLINE
-     Infrastructure: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/module/cd/orgs/default/projects/Platform_Demo/pipelines/IaCM_Provision_EC2_Instance/pipeline-studio?storeType=INLINE
-    harness.io/services: |
-     boutique_frontend: https://app.harness.io/ng/account/6_vVHzo9Qeu9fXvj-AcbCQ/module/cd/orgs/default/projects/Platform_Demo/services/Boutique_Frontend
+     New React App Onboarding: https://app.harness.io/ng/account/Dn2AsSxZSmKVAq-WNhAl_w/module/ci/orgs/default/projects/default_project/pipelines/New_React_App_Onboarding/pipeline-studio?storeType=INLINE
+     React App Deploy: https://app.harness.io/ng/account/Dn2AsSxZSmKVAq-WNhAl_w/module/ci/orgs/default/projects/default_project/pipelines/React_App_Deploy/pipeline-studio?storeType=INLINE
     #For Harness CI/CD plugins - End
     #For Harness IACM plugin - Start
     #harness.io/workspace-url: |
