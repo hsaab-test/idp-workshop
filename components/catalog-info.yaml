@@ -15,6 +15,8 @@ metadata:
     #For Harness CI/CD plugins - Start
     harness.io/pipelines: |
      React App Deploy: https://app.harness.io/ng/account/Dn2AsSxZSmKVAq-WNhAl_w/all/orgs/default/projects/default_project/pipelines/React_App_Deploy/pipeline-studio?storeType=INLINE
+    harness.io/services: |
+     React App Service: https://app.harness.io/ng/account/Dn2AsSxZSmKVAq-WNhAl_w/module/cd/orgs/default/projects/default_project/services/reactappdemoservice
     #For Harness CI/CD plugins - End
     #For Harness IACM plugin - Start
     #harness.io/workspace-url: |
